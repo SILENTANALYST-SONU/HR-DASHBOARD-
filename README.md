@@ -30,7 +30,8 @@ The dashboard provides insights into:
 ## 📸 Dashboard Preview  
 *(Click the image to open the live dashboard)*
 
-[![HR Dashboard Preview](images/hr_dashboard.png)](https://github.com/SILENTANALYST-SONU/HR-DASHBOARD-/blob/main/Dashboard/Images/HR-DASHBOARD.png)
+[![HR Dashboard Preview](<img width="1400" height="800" alt="HR-DASHBOARD" src="https://github.com/user-attachments/assets/65cbc86b-0c96-4ac7-85cb-519e5304db43" />
+)](https://github.com/SILENTANALYST-SONU/HR-DASHBOARD-/blob/main/Dashboard/Images/HR-DASHBOARD.png)
 
 ---
 
