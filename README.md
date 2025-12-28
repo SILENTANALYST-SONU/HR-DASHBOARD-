@@ -25,11 +25,6 @@ The dashboard provides insights into:
 </a>
 <p align="center"><strong>🔎 Click the dashboard image to view it live on Tableau Public</strong></p>
 
-# 📊 HR Analytics Dashboard (Tableau)
-
-[![Tableau Public](https://img.shields.io/badge/Tableau-Public-blue?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/YOUR.NAME)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/HR-Analytics-Dashboard-Tableau)
-
 ## 🛠 Tools & Technologies
 
 - Tableau Public
@@ -41,21 +36,20 @@ The dashboard provides insights into:
 
 ## 📈 Key Insights
 
-Gender-wise Analysis:
----
+**Gender-wise Analysis:**
 The workforce shows a clear gender distribution across departments, helping identify representation gaps and diversity trends within the organization.
 
--Income & Salary Distribution:
- Salary levels vary significantly across roles and departments, highlighting income disparities and helping HR assess compensation fairness.
+**Income & Salary Distribution:**
+Salary levels vary significantly across roles and departments, highlighting income disparities and helping HR assess compensation fairness.
 
--Age & Salary Relationship:
- Employees in mid-career age groups tend to earn higher average salaries, indicating a correlation between experience level and compensation.
+**Age & Salary Relationship:**
+Employees in mid-career age groups tend to earn higher average salaries, indicating a correlation between experience level and compensation.
 
--Education vs Performance:
- Performance ratings show noticeable differences across education levels, suggesting that higher educational qualifications often align with stronger performance outcomes.
+**Education vs Performance:**
+Performance ratings show noticeable differences across education levels, suggesting that higher educational qualifications often align with stronger performance outcomes.
 
--Education & Age Classification:
- Employees are grouped by education level and age brackets, enabling HR teams to understand workforce maturity, career progression patterns, and training needs.
+**Education & Age Classification:**
+Employees are grouped by education level and age brackets, enabling HR teams to understand workforce maturity, career progression patterns, and training needs.
 
 ---
 ## 🌟 About Me
