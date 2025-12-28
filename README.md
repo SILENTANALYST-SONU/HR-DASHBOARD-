@@ -21,7 +21,7 @@ The dashboard provides insights into:
 
 ## 📸 Dashboard Preview  
 <a href="https://public.tableau.com/views/HRDashboard/Overview" target="_blank">
-  <img src=""/>
+  <img src="https://github.com/SILENTANALYST-SONU/HR-DASHBOARD-/blob/main/Dashboard/Images/HR-DASHBOARD1.png"/>
 </a>
 <p align="center"><strong>🔎 Click the dashboard image to view it live on Tableau Public</strong></p>
 
