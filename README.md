@@ -1,7 +1,7 @@
 # HR-DASHBOARD-
 End-to-end HR analytics dashboard developed using Tableau, enabling organizations to monitor workforce trends, employee retention, and key HR KPIs through interactive visualizations.
 
-## 🧠 Project Overview
+## Project Overview
 This project is an **interactive HR analytics dashboard** developed using **Tableau** to help organizations analyze workforce data and make data-driven HR decisions.
 
 The dashboard provides insights into:
@@ -12,20 +12,20 @@ The dashboard provides insights into:
 - Key HR KPIs
 ---
 
-## 🔗 Live Dashboard
+## Live Dashboard
 
 👉 **View on Tableau Public:**  
 [Click here to view the dashboard](https://public.tableau.com/app/profile/sonu.kumar.yadav1220/vizzes)
 
 ---
 
-## 📸 Dashboard Preview  
+## Dashboard Preview  
 <a href="https://public.tableau.com/views/HRDashboard/Overview" target="_blank">
   <img src="https://github.com/SILENTANALYST-SONU/HR-DASHBOARD-/blob/main/Dashboard/Images/HR-DASHBOARD1.png"/>
 </a>
 <p align="center"><strong>🔎 Click the dashboard image to view it live on Tableau Public</strong></p>
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 - Tableau Public
 - Data Visualization
@@ -34,7 +34,7 @@ The dashboard provides insights into:
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
 **Gender-wise Analysis:**
 The workforce shows a clear gender distribution across departments, helping identify representation gaps and diversity trends within the organization.
@@ -52,7 +52,7 @@ Performance ratings show noticeable differences across education levels, suggest
 Employees are grouped by education level and age brackets, enabling HR teams to understand workforce maturity, career progression patterns, and training needs.
 
 ---
-## 🌟 About Me
+## About Me
 
 Hello, My name is **SONUKUMAR YADAV**, and I am a passionate **Data Analyst** with a strong focus on transforming raw data into meaningful insights that drive smarter business decisions.I believe that every dataset has a story, and my role as a data analyst is to decode that story and communicate it effectively to stakeholders.
 
