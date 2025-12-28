@@ -30,7 +30,7 @@ The dashboard provides insights into:
 ## 📸 Dashboard Preview  
 *(Click the image to open the live dashboard)*
 
-[![HR Dashboard Preview](images/hr_dashboard.png)](C:\Users\HP\Desktop\TABLEAU PROJECT\HR -DASHBOARD\Dashboard image)
+[![HR Dashboard Preview](images/hr_dashboard.png)](https://github.com/SILENTANALYST-SONU/HR-DASHBOARD-/blob/main/Dashboard/Images/HR-DASHBOARD.png)
 
 ---
 
