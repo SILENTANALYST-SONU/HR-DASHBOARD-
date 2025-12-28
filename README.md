@@ -66,5 +66,15 @@ Let's stay in touch! Feel free to connect with me on the following platforms:
 [![Devpost](https://img.shields.io/badge/Devpost-Profile-blue?logo=devpost&logoColor=white)](https://devpost.com/sonuyaduvanshi5560?)
 [![Tableau Public](https://img.shields.io/badge/Tableau-Public-blue?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/sonu.kumar.yadav1220/vizzes)
 
+---
 
+<p align="center">
+  <a href="https://public.tableau.com/views/HRDashboard/Overview">
+    <img src="(https://public.tableau.com/app/profile/sonu.kumar.yadav1220/vizzes"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://public.tableau.com/app/profile/sonu.kumar.yadav1220">
+    <img src="https://img.shields.io/badge/My%20Profile-Tableau%20Public-lightgrey?logo=tableau&logoColor=black&style=for-the-badge"/>
+  </a>
+</p>
 
